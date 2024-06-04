@@ -1,0 +1,6 @@
+jars/
+.local/
+.aws/
+.jupyter/
+.ipython/
+.ipynb_checkpoints
